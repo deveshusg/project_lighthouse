@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Data
+*.duckdb
+*.parquet
+*.csv
+*.xlsx
+
+# Snapshot Files
+project_source_dump.txt
+project_inventory.txt
+project_structure.txt
+p0_files.txt
+duckdb_inventory.txt
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
